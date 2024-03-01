@@ -21,6 +21,7 @@ The Sales Analysis Project is a comprehensive data-driven initiative aimed at ex
 ### Sales Performance Metrics:
 * Calculate and analyze sales performance metrics such as revenue, profit margins, and growth rates.
 * Monitor customer acquisition cost and customer lifetime value.
+  ![ٍSales](https://github.com/Anabil12/Sales-Analysis-project/assets/118571332/12eed867-a8e9-4c7b-a096-ee783222d21f)
 
 ### Dashboard Development:
 * Develop interactive dashboards using tools like Tableau or Power BI.

@@ -1,10 +1,12 @@
-# Sales-Analysis-project-
+# Sales-Analysis-project
 The Sales Analysis Project is a comprehensive data-driven initiative aimed at extracting actionable insights from sales data to drive strategic decision-making within the organization. 
 
 ###  Data Extraction and Integration:
 
 * Gather sales data from various sources like transactional databases and CRM systems.
 * Utilize Git for version control to ensure data integrity and traceability during extraction and integration processes.
+* Data Modeling for relationships between tables
+  ![Modeling ](https://github.com/Anabil12/Sales-Analysis-project/assets/118571332/ed78d48c-b104-4a48-b253-65f0489e2cc0)
 
 ### Data Cleaning and Preprocessing:
 * Cleanse and preprocess the gathered data to ensure consistency and accuracy.
@@ -14,6 +16,7 @@ The Sales Analysis Project is a comprehensive data-driven initiative aimed at ex
 ### Exploratory Data Analysis (EDA):
 * Conduct EDA to understand sales data patterns and anomalies.
 * Use Git to track changes in analysis scripts and notebooks during the exploratory phase.
+  
 
 ### Sales Performance Metrics:
 * Calculate and analyze sales performance metrics such as revenue, profit margins, and growth rates.
